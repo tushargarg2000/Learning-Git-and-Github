@@ -4,3 +4,6 @@ This file will contain the features
 Calling
 
 Messaging
+
+
+Internet
